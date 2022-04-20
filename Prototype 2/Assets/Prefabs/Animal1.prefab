@@ -693,7 +693,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4912206504002762613}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: 22}
+  m_LocalPosition: {x: 0, y: 0, z: 40}
   m_LocalScale: {x: 11, y: 11, z: 11}
   m_Children:
   - {fileID: 4912206504002983843}
@@ -740,7 +740,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 646cc3b385bf46444bb3b6f89c8d8814, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  foodSpeed: 10
+  foodSpeed: 11
 --- !u!114 &6533722950693979069
 MonoBehaviour:
   m_ObjectHideFlags: 0
