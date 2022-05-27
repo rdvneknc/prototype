@@ -10,13 +10,6 @@ public class PlayerController : MonoBehaviour
     public float speed = 20.0f;
     public float movementRange = 20;
 
-
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
     void Update()
     {
         horizontalInput = Input.GetAxis("Horizontal");
@@ -38,8 +31,6 @@ public class PlayerController : MonoBehaviour
             Instantiate(projectilePrefab, new Vector3(transform.position.x, 2, transform.position.z), projectilePrefab.transform.rotation);
         }
 
-        
-
-        
+           
     }
 }

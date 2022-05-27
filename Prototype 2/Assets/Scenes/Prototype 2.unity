@@ -4395,7 +4395,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1195a8bc57808ba48b9668eb28f9c670, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animalPrefabs:
+  AnimalPrefabs:
   - {fileID: 4912206504002762613, guid: c7d87ac0651f1eb4495a4343d0f1c025, type: 3}
   - {fileID: 4543875075908827471, guid: e9abe2d11c51d674d94ea88009460e40, type: 3}
   - {fileID: 134694, guid: 50f1d192ccb21a24b95a7e4e403a9bb5, type: 3}
